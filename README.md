@@ -1,8 +1,8 @@
-# bilingual-cyberbullying-detection-ml
+
 
 # Cyberbullying Detection Using Machine Learning
 
-A bilingual machine learning system for detecting abusive social media text in **English and Roman Urdu** using classical NLP and supervised learning models.
+A **bilingual machine learning system** for detecting abusive social media text in **English and Roman Urdu** using classical NLP and supervised learning models.
 
 ## Overview
 This project focuses on cyberbullying detection in bilingual social media text, addressing challenges such as slang, sarcasm, informal language, and Roman Urdu spelling variations.
