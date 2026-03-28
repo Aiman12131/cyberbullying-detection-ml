@@ -25,8 +25,6 @@ The final dataset combines publicly available English and Roman Urdu cyberbullyi
 - **Languages:** English + Roman Urdu
 - **Labels:** Binary
 
----
-
 ## Methodology
 The workflow includes:
 
@@ -34,8 +32,6 @@ The workflow includes:
 2. TF-IDF feature extraction  
 3. Training multiple ML classifiers  
 4. Model evaluation using Accuracy, Precision, Recall, and F1-score  
-
----
 
 ##  Results
 | Model | Accuracy | F1-Score |
@@ -54,9 +50,8 @@ The workflow includes:
 - NumPy
 - Matplotlib
 - Jupyter Notebook
----
 
-## 🔮 Future Work
+## Future Work
 - Transformer-based models (BERT)
 - Better Roman Urdu normalization
 - Sarcasm and implicit bullying detection
